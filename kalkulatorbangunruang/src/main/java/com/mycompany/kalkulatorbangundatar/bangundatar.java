@@ -114,23 +114,7 @@ public class bangundatar extends javax.swing.JFrame {
             }
         });
 
-        txtsisi2.setForeground(new java.awt.Color(204, 204, 204));
-
-        txtpanjang.setForeground(new java.awt.Color(204, 204, 204));
-
-        txtlebar.setForeground(new java.awt.Color(204, 204, 204));
-
-        txtluas2.setForeground(new java.awt.Color(204, 204, 204));
-
-        txtluas3.setForeground(new java.awt.Color(204, 204, 204));
-
         jLabel17.setText("tinggi");
-
-        txtalas.setForeground(new java.awt.Color(204, 204, 204));
-
-        txttinggi.setForeground(new java.awt.Color(204, 204, 204));
-
-        txtsisi1.setForeground(new java.awt.Color(204, 204, 204));
 
         btnkali3.setText("hitung");
         btnkali3.addActionListener(new java.awt.event.ActionListener() {
@@ -139,19 +123,11 @@ public class bangundatar extends javax.swing.JFrame {
             }
         });
 
-        txtluas1.setForeground(new java.awt.Color(204, 204, 204));
-
         jLabel12.setText("keliling");
-
-        txtkeliling2.setForeground(new java.awt.Color(204, 204, 204));
-
-        txtsisia.setForeground(new java.awt.Color(204, 204, 204));
 
         jLabel19.setText("sisi a");
 
         jLabel20.setText("sisi b");
-
-        txtsisib.setForeground(new java.awt.Color(204, 204, 204));
 
         jLabel22.setText("sisi c");
 
@@ -162,11 +138,7 @@ public class bangundatar extends javax.swing.JFrame {
             }
         });
 
-        txtkeliling3.setForeground(new java.awt.Color(204, 204, 204));
-
         jLabel23.setText("keliling");
-
-        txtsisic.setForeground(new java.awt.Color(204, 204, 204));
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
@@ -261,16 +233,16 @@ public class bangundatar extends javax.swing.JFrame {
                                 .addComponent(txtsisib, javax.swing.GroupLayout.PREFERRED_SIZE, 150, javax.swing.GroupLayout.PREFERRED_SIZE)))))
                 .addContainerGap(78, Short.MAX_VALUE))
             .addGroup(layout.createSequentialGroup()
-                .addGap(345, 345, 345)
+                .addGap(286, 286, 286)
                 .addComponent(jLabel1)
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
-                .addGap(33, 33, 33)
+                .addGap(29, 29, 29)
                 .addComponent(jLabel1)
-                .addGap(27, 27, 27)
+                .addGap(31, 31, 31)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
                     .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                         .addComponent(jLabel22)
